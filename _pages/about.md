@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a master's student at Minzu University of China. My undergraduate major was in Financial Mathematics, which provided me with a systematic understanding of various mathematical courses and their applications in finance. My master's program focuses on Applied Statistics, particularly in Medical Statistics. This includes handling electronic medical records, analyzing medical data, developing risk prediction models, and researching two-stage data analysis..
+I am currently a master's student at Minzu University of China. My undergraduate major was in Financial Mathematics, which provided me with a systematic understanding of various mathematical courses and their applications in finance. My master's program focuses on Applied Statistics, particularly in Medical Statistics. This includes handling electronic medical records(EMR), analyzing medical data, developing risk prediction models, and researching two-stage data analysis..
 
 Research experience
 ------
@@ -20,6 +20,7 @@ Research experience
 
 Project experience
 ------
+NONONONO I am joker wuwuw
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
 HAHAHAHAH
